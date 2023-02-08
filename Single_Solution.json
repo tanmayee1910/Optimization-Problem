@@ -1,0 +1,6692 @@
+{
+  "Source Node": 0,
+  "Routing Path": [
+    [
+      1,
+      31.895
+    ],
+    [
+      2,
+      31.895
+    ],
+    [
+      3,
+      31.895
+    ],
+    [
+      4,
+      31.895
+    ],
+    [
+      6,
+      31.895
+    ],
+    [
+      11,
+      31.895
+    ],
+    [
+      12,
+      31.895
+    ],
+    [
+      15,
+      31.895
+    ],
+    [
+      19,
+      31.895
+    ],
+    [
+      23,
+      31.895
+    ],
+    [
+      24,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 26,
+  "Routing Path": [
+    [
+      27,
+      31.895
+    ],
+    [
+      28,
+      31.895
+    ],
+    [
+      30,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 31,
+  "Routing Path": [
+    [
+      32,
+      31.895
+    ],
+    [
+      33,
+      31.895
+    ],
+    [
+      34,
+      31.895
+    ],
+    [
+      35,
+      31.895
+    ],
+    [
+      36,
+      31.895
+    ],
+    [
+      38,
+      31.895
+    ],
+    [
+      39,
+      31.895
+    ],
+    [
+      40,
+      31.895
+    ],
+    [
+      41,
+      31.895
+    ],
+    [
+      43,
+      31.895
+    ],
+    [
+      47,
+      31.895
+    ],
+    [
+      48,
+      31.895
+    ],
+    [
+      49,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 50,
+  "Routing Path": [
+    [
+      51,
+      31.895
+    ],
+    [
+      52,
+      31.895
+    ],
+    [
+      54,
+      31.895
+    ],
+    [
+      55,
+      31.895
+    ],
+    [
+      57,
+      31.895
+    ],
+    [
+      58,
+      31.895
+    ],
+    [
+      59,
+      31.895
+    ],
+    [
+      60,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 61,
+  "Routing Path": [
+    [
+      63,
+      31.895
+    ],
+    [
+      65,
+      31.895
+    ],
+    [
+      67,
+      31.895
+    ],
+    [
+      68,
+      31.895
+    ],
+    [
+      69,
+      31.895
+    ],
+    [
+      70,
+      31.895
+    ],
+    [
+      71,
+      31.895
+    ],
+    [
+      73,
+      31.895
+    ],
+    [
+      74,
+      31.895
+    ],
+    [
+      75,
+      31.895
+    ],
+    [
+      76,
+      31.895
+    ],
+    [
+      77,
+      31.895
+    ],
+    [
+      78,
+      31.895
+    ],
+    [
+      79,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 81,
+  "Routing Path": [
+    [
+      84,
+      31.895
+    ],
+    [
+      87,
+      31.895
+    ],
+    [
+      89,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 91,
+  "Routing Path": [
+    [
+      92,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 93,
+  "Routing Path": [
+    [
+      95,
+      31.895
+    ],
+    [
+      96,
+      31.895
+    ],
+    [
+      97,
+      31.895
+    ],
+    [
+      99,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 100,
+  "Routing Path": [
+    [
+      101,
+      31.895
+    ],
+    [
+      104,
+      31.895
+    ],
+    [
+      105,
+      31.895
+    ],
+    [
+      107,
+      31.895
+    ],
+    [
+      129,
+      31.895
+    ],
+    [
+      131,
+      31.895
+    ],
+    [
+      132,
+      31.895
+    ],
+    [
+      133,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 135,
+  "Routing Path": [
+    [
+      136,
+      31.895
+    ],
+    [
+      138,
+      31.895
+    ],
+    [
+      139,
+      31.895
+    ],
+    [
+      140,
+      31.895
+    ],
+    [
+      142,
+      31.895
+    ],
+    [
+      "GS1",
+      43.505
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 144,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 146,
+  "Routing Path": [
+    [
+      147,
+      31.895
+    ],
+    [
+      148,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 149,
+  "Routing Path": [
+    [
+      151,
+      31.895
+    ],
+    [
+      152,
+      31.895
+    ],
+    [
+      153,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 154,
+  "Routing Path": [
+    [
+      155,
+      31.895
+    ],
+    [
+      157,
+      31.895
+    ],
+    [
+      158,
+      31.895
+    ],
+    [
+      159,
+      31.895
+    ],
+    [
+      160,
+      31.895
+    ],
+    [
+      161,
+      31.895
+    ],
+    [
+      163,
+      31.895
+    ],
+    [
+      164,
+      31.895
+    ],
+    [
+      165,
+      31.895
+    ],
+    [
+      166,
+      31.895
+    ],
+    [
+      167,
+      31.895
+    ],
+    [
+      169,
+      31.895
+    ],
+    [
+      170,
+      31.895
+    ],
+    [
+      172,
+      31.895
+    ],
+    [
+      173,
+      31.895
+    ],
+    [
+      174,
+      31.895
+    ],
+    [
+      175,
+      31.895
+    ],
+    [
+      176,
+      31.895
+    ],
+    [
+      177,
+      31.895
+    ],
+    [
+      178,
+      31.895
+    ],
+    [
+      179,
+      31.895
+    ],
+    [
+      181,
+      31.895
+    ],
+    [
+      182,
+      31.895
+    ],
+    [
+      183,
+      31.895
+    ],
+    [
+      184,
+      31.895
+    ],
+    [
+      185,
+      31.895
+    ],
+    [
+      187,
+      31.895
+    ],
+    [
+      188,
+      31.895
+    ],
+    [
+      189,
+      31.895
+    ],
+    [
+      190,
+      31.895
+    ],
+    [
+      191,
+      31.895
+    ],
+    [
+      193,
+      31.895
+    ],
+    [
+      194,
+      31.895
+    ],
+    [
+      195,
+      31.895
+    ],
+    [
+      197,
+      31.895
+    ],
+    [
+      200,
+      31.895
+    ],
+    [
+      201,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 202,
+  "Routing Path": [
+    [
+      203,
+      31.895
+    ],
+    [
+      204,
+      31.895
+    ],
+    [
+      109,
+      31.895
+    ],
+    [
+      205,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 206,
+  "Routing Path": [
+    [
+      207,
+      31.895
+    ],
+    [
+      112,
+      31.895
+    ],
+    [
+      209,
+      31.895
+    ],
+    [
+      211,
+      31.895
+    ],
+    [
+      212,
+      31.895
+    ],
+    [
+      213,
+      31.895
+    ],
+    [
+      214,
+      31.895
+    ],
+    [
+      215,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 5,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 7,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 8,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 9,
+  "Routing Path": [
+    [
+      10,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 13,
+  "Routing Path": [
+    [
+      14,
+      31.895
+    ],
+    [
+      16,
+      31.895
+    ],
+    [
+      17,
+      31.895
+    ],
+    [
+      18,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 20,
+  "Routing Path": [
+    [
+      21,
+      31.895
+    ],
+    [
+      22,
+      31.895
+    ],
+    [
+      25,
+      31.895
+    ],
+    [
+      29,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 37,
+  "Routing Path": [
+    [
+      42,
+      31.895
+    ],
+    [
+      128,
+      31.895
+    ],
+    [
+      130,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 134,
+  "Routing Path": [
+    [
+      137,
+      31.895
+    ],
+    [
+      141,
+      31.895
+    ],
+    [
+      143,
+      31.895
+    ],
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 145,
+  "Routing Path": [
+    [
+      "GS2",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 150,
+  "Routing Path": [
+    [
+      156,
+      31.895
+    ],
+    [
+      162,
+      31.895
+    ],
+    [
+      168,
+      31.895
+    ],
+    [
+      171,
+      31.895
+    ],
+    [
+      44,
+      31.895
+    ],
+    [
+      45,
+      31.895
+    ],
+    [
+      46,
+      31.895
+    ],
+    [
+      180,
+      31.895
+    ],
+    [
+      53,
+      31.895
+    ],
+    [
+      56,
+      31.895
+    ],
+    [
+      186,
+      31.895
+    ],
+    [
+      62,
+      31.895
+    ],
+    [
+      64,
+      31.895
+    ],
+    [
+      192,
+      31.895
+    ],
+    [
+      66,
+      31.895
+    ],
+    [
+      196,
+      31.895
+    ],
+    [
+      198,
+      31.895
+    ],
+    [
+      199,
+      31.895
+    ],
+    [
+      72,
+      31.895
+    ],
+    [
+      80,
+      31.895
+    ],
+    [
+      208,
+      31.895
+    ],
+    [
+      210,
+      31.895
+    ],
+    [
+      82,
+      31.895
+    ],
+    [
+      83,
+      31.895
+    ],
+    [
+      85,
+      31.895
+    ],
+    [
+      86,
+      31.895
+    ],
+    [
+      88,
+      31.895
+    ],
+    [
+      98,
+      31.895
+    ],
+    [
+      102,
+      31.895
+    ],
+    [
+      103,
+      31.895
+    ],
+    [
+      106,
+      31.895
+    ],
+    [
+      108,
+      31.895
+    ],
+    [
+      110,
+      31.895
+    ],
+    [
+      111,
+      31.895
+    ],
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 113,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 114,
+  "Routing Path": [
+    [
+      115,
+      31.895
+    ],
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 116,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 117,
+  "Routing Path": [
+    [
+      118,
+      31.895
+    ],
+    [
+      119,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 189,
+  "Routing Path": [
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 63,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 166,
+  "Routing Path": [
+    [
+      91,
+      52.857
+    ],
+    [
+      1,
+      52.857
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 158,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 159,
+  "Routing Path": [
+    [
+      136,
+      31.895
+    ],
+    [
+      154,
+      31.895
+    ],
+    [
+      4,
+      31.895
+    ],
+    [
+      138,
+      31.895
+    ],
+    [
+      185,
+      31.895
+    ],
+    [
+      27,
+      31.895
+    ],
+    [
+      183,
+      31.895
+    ],
+    [
+      153,
+      31.895
+    ],
+    [
+      165,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 71,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 69,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 77,
+  "Routing Path": [
+    [
+      39,
+      31.895
+    ],
+    [
+      212,
+      31.895
+    ],
+    [
+      142,
+      31.895
+    ],
+    [
+      "GS1",
+      43.505
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 57,
+  "Routing Path": [
+    [
+      6,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 122,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 75,
+  "Routing Path": [
+    [
+      "GS1",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 51,
+  "Routing Path": [
+    [
+      132,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 160,
+  "Routing Path": [
+    [
+      89,
+      31.895
+    ],
+    [
+      202,
+      63.97
+    ],
+    [
+      24,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 49,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 47,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 195,
+  "Routing Path": [
+    [
+      151,
+      63.97
+    ],
+    [
+      203,
+      77.071
+    ],
+    [
+      126,
+      31.895
+    ],
+    [
+      96,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 187,
+  "Routing Path": [
+    [
+      30,
+      63.97
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 26,
+  "Routing Path": [
+    [
+      60,
+      31.895
+    ],
+    [
+      38,
+      43.505
+    ],
+    [
+      191,
+      31.895
+    ],
+    [
+      155,
+      31.895
+    ],
+    [
+      209,
+      52.857
+    ],
+    [
+      179,
+      31.895
+    ],
+    [
+      104,
+      31.895
+    ],
+    [
+      184,
+      31.895
+    ],
+    [
+      68,
+      31.895
+    ],
+    [
+      40,
+      31.895
+    ],
+    [
+      205,
+      31.895
+    ],
+    [
+      78,
+      31.895
+    ],
+    [
+      54,
+      77.071
+    ],
+    [
+      163,
+      77.071
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 129,
+  "Routing Path": [
+    [
+      190,
+      77.071
+    ],
+    [
+      169,
+      31.895
+    ],
+    [
+      188,
+      52.857
+    ],
+    [
+      36,
+      31.895
+    ],
+    [
+      81,
+      31.895
+    ],
+    [
+      181,
+      31.895
+    ],
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 167,
+  "Routing Path": [
+    [
+      "GS1",
+      43.505
+    ]
+  ],
+  "End-to-end data rate": 43.505
+}
+{
+  "Source Node": 59,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 32,
+  "Routing Path": [
+    [
+      112,
+      31.895
+    ],
+    [
+      50,
+      31.895
+    ],
+    [
+      148,
+      31.895
+    ],
+    [
+      15,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 84,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 125,
+  "Routing Path": [
+    [
+      33,
+      31.895
+    ],
+    [
+      178,
+      31.895
+    ],
+    [
+      139,
+      63.97
+    ],
+    [
+      "GS1",
+      63.97
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 67,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 214,
+  "Routing Path": [
+    [
+      58,
+      31.895
+    ],
+    [
+      182,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 144,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 105,
+  "Routing Path": [
+    [
+      174,
+      31.895
+    ],
+    [
+      11,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 204,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 48,
+  "Routing Path": [
+    [
+      95,
+      31.895
+    ],
+    [
+      107,
+      31.895
+    ],
+    [
+      92,
+      52.857
+    ],
+    [
+      213,
+      31.895
+    ],
+    [
+      55,
+      31.895
+    ],
+    [
+      79,
+      31.895
+    ],
+    [
+      193,
+      31.895
+    ],
+    [
+      "GS1",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 52,
+  "Routing Path": [
+    [
+      149,
+      31.895
+    ],
+    [
+      161,
+      31.895
+    ],
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 65,
+  "Routing Path": [
+    [
+      147,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 2,
+  "Routing Path": [
+    [
+      135,
+      31.895
+    ],
+    [
+      43,
+      77.071
+    ],
+    [
+      207,
+      31.895
+    ],
+    [
+      101,
+      31.895
+    ],
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 211,
+  "Routing Path": [
+    [
+      19,
+      31.895
+    ],
+    [
+      93,
+      31.895
+    ],
+    [
+      100,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 215,
+  "Routing Path": [
+    [
+      206,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 3,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 7,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 208,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 62,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 115,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 80,
+  "Routing Path": [
+    [
+      5,
+      52.857
+    ],
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 86,
+  "Routing Path": [
+    [
+      14,
+      31.895
+    ],
+    [
+      25,
+      31.895
+    ],
+    [
+      210,
+      52.857
+    ],
+    [
+      137,
+      31.895
+    ],
+    [
+      145,
+      31.895
+    ],
+    [
+      "GS2",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 180,
+  "Routing Path": [
+    [
+      118,
+      31.895
+    ],
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 22,
+  "Routing Path": [
+    [
+      141,
+      31.895
+    ],
+    [
+      53,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 66,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 121,
+  "Routing Path": [
+    [
+      106,
+      31.895
+    ],
+    [
+      82,
+      31.895
+    ],
+    [
+      186,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 143,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 44,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 111,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 134,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 18,
+  "Routing Path": [
+    [
+      45,
+      31.895
+    ],
+    [
+      94,
+      31.895
+    ],
+    [
+      130,
+      31.895
+    ],
+    [
+      116,
+      31.895
+    ],
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 113,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 88,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 156,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 21,
+  "Routing Path": [
+    [
+      198,
+      31.895
+    ],
+    [
+      98,
+      31.895
+    ],
+    [
+      56,
+      31.895
+    ],
+    [
+      29,
+      31.895
+    ],
+    [
+      128,
+      43.505
+    ],
+    [
+      171,
+      31.895
+    ],
+    [
+      108,
+      77.071
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 176,
+  "Routing Path": [
+    [
+      104,
+      31.895
+    ],
+    [
+      194,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 160,
+  "Routing Path": [
+    [
+      105,
+      31.895
+    ],
+    [
+      33,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 11,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 155,
+  "Routing Path": [
+    [
+      183,
+      31.895
+    ],
+    [
+      164,
+      31.895
+    ],
+    [
+      174,
+      31.895
+    ],
+    [
+      2,
+      31.895
+    ],
+    [
+      27,
+      31.895
+    ],
+    [
+      40,
+      52.857
+    ],
+    [
+      112,
+      31.895
+    ],
+    [
+      177,
+      31.895
+    ],
+    [
+      175,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 58,
+  "Routing Path": [
+    [
+      55,
+      31.895
+    ],
+    [
+      99,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 95,
+  "Routing Path": [
+    [
+      73,
+      31.895
+    ],
+    [
+      139,
+      43.505
+    ],
+    [
+      "GS1",
+      63.97
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 34,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 133,
+  "Routing Path": [
+    [
+      135,
+      77.071
+    ],
+    [
+      165,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 193,
+  "Routing Path": [
+    [
+      "GS1",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 0,
+  "Routing Path": [
+    [
+      23,
+      31.895
+    ],
+    [
+      157,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 167,
+  "Routing Path": [
+    [
+      "GS1",
+      43.505
+    ]
+  ],
+  "End-to-end data rate": 43.505
+}
+{
+  "Source Node": 120,
+  "Routing Path": [
+    [
+      41,
+      63.97
+    ],
+    [
+      100,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 75,
+  "Routing Path": [
+    [
+      "GS1",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 69,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 39,
+  "Routing Path": [
+    [
+      1,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 153,
+  "Routing Path": [
+    [
+      89,
+      31.895
+    ],
+    [
+      146,
+      43.505
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 15,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 96,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 173,
+  "Routing Path": [
+    [
+      191,
+      31.895
+    ],
+    [
+      179,
+      31.895
+    ],
+    [
+      26,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 36,
+  "Routing Path": [
+    [
+      76,
+      31.895
+    ],
+    [
+      158,
+      31.895
+    ],
+    [
+      125,
+      52.857
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 97,
+  "Routing Path": [
+    [
+      "GS1",
+      63.97
+    ]
+  ],
+  "End-to-end data rate": 63.97
+}
+{
+  "Source Node": 140,
+  "Routing Path": [
+    [
+      60,
+      43.505
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 159,
+  "Routing Path": [
+    [
+      6,
+      31.895
+    ],
+    [
+      138,
+      43.505
+    ],
+    [
+      212,
+      31.895
+    ],
+    [
+      132,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 71,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 52,
+  "Routing Path": [
+    [
+      79,
+      43.505
+    ],
+    [
+      169,
+      31.895
+    ],
+    [
+      43,
+      31.895
+    ],
+    [
+      109,
+      31.895
+    ],
+    [
+      31,
+      31.895
+    ],
+    [
+      49,
+      31.895
+    ],
+    [
+      38,
+      31.895
+    ],
+    [
+      161,
+      31.895
+    ],
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 101,
+  "Routing Path": [
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 205,
+  "Routing Path": [
+    [
+      126,
+      31.895
+    ],
+    [
+      50,
+      31.895
+    ],
+    [
+      215,
+      31.895
+    ],
+    [
+      24,
+      31.895
+    ],
+    [
+      163,
+      52.857
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 63,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 189,
+  "Routing Path": [
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 12,
+  "Routing Path": [
+    [
+      84,
+      31.895
+    ],
+    [
+      178,
+      43.505
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 142,
+  "Routing Path": [
+    [
+      "GS1",
+      43.505
+    ]
+  ],
+  "End-to-end data rate": 43.505
+}
+{
+  "Source Node": 4,
+  "Routing Path": [
+    [
+      78,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 170,
+  "Routing Path": [
+    [
+      65,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 190,
+  "Routing Path": [
+    [
+      28,
+      31.895
+    ],
+    [
+      74,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 48,
+  "Routing Path": [
+    [
+      19,
+      31.895
+    ],
+    [
+      214,
+      31.895
+    ],
+    [
+      107,
+      31.895
+    ],
+    [
+      152,
+      31.895
+    ],
+    [
+      172,
+      31.895
+    ],
+    [
+      87,
+      31.895
+    ],
+    [
+      68,
+      31.895
+    ],
+    [
+      91,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 47,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 204,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 59,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 127,
+  "Routing Path": [
+    [
+      197,
+      31.895
+    ],
+    [
+      93,
+      31.895
+    ],
+    [
+      144,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 208,
+  "Routing Path": [
+    [
+      114,
+      43.505
+    ],
+    [
+      121,
+      31.895
+    ],
+    [
+      192,
+      31.895
+    ],
+    [
+      80,
+      31.895
+    ],
+    [
+      "GS2",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 115,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 111,
+  "Routing Path": [
+    [
+      116,
+      93.854
+    ],
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 44,
+  "Routing Path": [
+    [
+      118,
+      119.13
+    ],
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 128,
+  "Routing Path": [
+    [
+      22,
+      43.505
+    ],
+    [
+      13,
+      31.895
+    ],
+    [
+      29,
+      31.895
+    ],
+    [
+      90,
+      31.895
+    ],
+    [
+      198,
+      31.895
+    ],
+    [
+      56,
+      52.857
+    ],
+    [
+      8,
+      31.895
+    ],
+    [
+      86,
+      31.895
+    ],
+    [
+      83,
+      31.895
+    ],
+    [
+      106,
+      31.895
+    ],
+    [
+      72,
+      31.895
+    ],
+    [
+      196,
+      31.895
+    ],
+    [
+      186,
+      77.071
+    ],
+    [
+      137,
+      31.895
+    ],
+    [
+      46,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 98,
+  "Routing Path": [
+    [
+      119,
+      31.895
+    ],
+    [
+      62,
+      31.895
+    ],
+    [
+      156,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 85,
+  "Routing Path": [
+    [
+      25,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 18,
+  "Routing Path": [
+    [
+      21,
+      31.895
+    ],
+    [
+      103,
+      31.895
+    ],
+    [
+      141,
+      52.857
+    ],
+    [
+      134,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 124,
+  "Routing Path": [
+    [
+      180,
+      31.895
+    ],
+    [
+      37,
+      31.895
+    ],
+    [
+      82,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 94,
+  "Routing Path": [
+    [
+      20,
+      31.895
+    ],
+    [
+      9,
+      31.895
+    ],
+    [
+      53,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 108,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 42,
+  "Routing Path": [
+    [
+      45,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 113,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 7,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 5,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 88,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 143,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 197,
+  "Routing Path": [
+    [
+      155,
+      31.895
+    ],
+    [
+      129,
+      31.895
+    ],
+    [
+      73,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 195,
+  "Routing Path": [
+    [
+      65,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 97,
+  "Routing Path": [
+    [
+      "GS1",
+      63.97
+    ]
+  ],
+  "End-to-end data rate": 63.97
+}
+{
+  "Source Node": 48,
+  "Routing Path": [
+    [
+      74,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 189,
+  "Routing Path": [
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 51,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 185,
+  "Routing Path": [
+    [
+      176,
+      31.895
+    ],
+    [
+      27,
+      31.895
+    ],
+    [
+      131,
+      31.895
+    ],
+    [
+      33,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 167,
+  "Routing Path": [
+    [
+      "GS1",
+      43.505
+    ]
+  ],
+  "End-to-end data rate": 43.505
+}
+{
+  "Source Node": 120,
+  "Routing Path": [
+    [
+      163,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 159,
+  "Routing Path": [
+    [
+      39,
+      31.895
+    ],
+    [
+      205,
+      31.895
+    ],
+    [
+      151,
+      63.97
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 59,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 215,
+  "Routing Path": [
+    [
+      87,
+      63.97
+    ],
+    [
+      19,
+      119.13
+    ],
+    [
+      178,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 101,
+  "Routing Path": [
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 169,
+  "Routing Path": [
+    [
+      144,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 32,
+  "Routing Path": [
+    [
+      79,
+      31.895
+    ],
+    [
+      148,
+      31.895
+    ],
+    [
+      6,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 193,
+  "Routing Path": [
+    [
+      "GS1",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 188,
+  "Routing Path": [
+    [
+      158,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 75,
+  "Routing Path": [
+    [
+      "GS1",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 140,
+  "Routing Path": [
+    [
+      28,
+      31.895
+    ],
+    [
+      174,
+      31.895
+    ],
+    [
+      152,
+      31.895
+    ],
+    [
+      24,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 142,
+  "Routing Path": [
+    [
+      172,
+      43.505
+    ],
+    [
+      78,
+      52.857
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 91,
+  "Routing Path": [
+    [
+      61,
+      77.071
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 194,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 69,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 71,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 54,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 207,
+  "Routing Path": [
+    [
+      26,
+      31.895
+    ],
+    [
+      12,
+      31.895
+    ],
+    [
+      38,
+      31.895
+    ],
+    [
+      89,
+      63.97
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 100,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 70,
+  "Routing Path": [
+    [
+      161,
+      31.895
+    ],
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 139,
+  "Routing Path": [
+    [
+      "GS1",
+      63.97
+    ]
+  ],
+  "End-to-end data rate": 63.97
+}
+{
+  "Source Node": 135,
+  "Routing Path": [
+    [
+      212,
+      31.895
+    ],
+    [
+      203,
+      31.895
+    ],
+    [
+      214,
+      31.895
+    ],
+    [
+      77,
+      31.895
+    ],
+    [
+      95,
+      63.97
+    ],
+    [
+      40,
+      31.895
+    ],
+    [
+      58,
+      31.895
+    ],
+    [
+      63,
+      31.895
+    ],
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 84,
+  "Routing Path": [
+    [
+      165,
+      52.857
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 170,
+  "Routing Path": [
+    [
+      109,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 2,
+  "Routing Path": [
+    [
+      50,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 202,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 164,
+  "Routing Path": [
+    [
+      149,
+      52.857
+    ],
+    [
+      146,
+      31.895
+    ],
+    [
+      60,
+      77.071
+    ],
+    [
+      96,
+      43.505
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 204,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 1,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 209,
+  "Routing Path": [
+    [
+      173,
+      31.895
+    ],
+    [
+      4,
+      31.895
+    ],
+    [
+      92,
+      31.895
+    ],
+    [
+      55,
+      31.895
+    ],
+    [
+      15,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 41,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 47,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 181,
+  "Routing Path": [
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 132,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 213,
+  "Routing Path": [
+    [
+      206,
+      63.97
+    ],
+    [
+      184,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 168,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 186,
+  "Routing Path": [
+    [
+      180,
+      52.857
+    ],
+    [
+      82,
+      31.895
+    ],
+    [
+      113,
+      31.895
+    ],
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 62,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 162,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 116,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 22,
+  "Routing Path": [
+    [
+      18,
+      93.854
+    ],
+    [
+      25,
+      31.895
+    ],
+    [
+      86,
+      31.895
+    ],
+    [
+      108,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 143,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 115,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 44,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 210,
+  "Routing Path": [
+    [
+      94,
+      31.895
+    ],
+    [
+      106,
+      31.895
+    ],
+    [
+      128,
+      31.895
+    ],
+    [
+      102,
+      31.895
+    ],
+    [
+      56,
+      63.97
+    ],
+    [
+      119,
+      52.857
+    ],
+    [
+      29,
+      31.895
+    ],
+    [
+      208,
+      31.895
+    ],
+    [
+      196,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 137,
+  "Routing Path": [
+    [
+      121,
+      31.895
+    ],
+    [
+      117,
+      31.895
+    ],
+    [
+      37,
+      43.505
+    ],
+    [
+      198,
+      63.97
+    ],
+    [
+      14,
+      31.895
+    ],
+    [
+      156,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 118,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 7,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 80,
+  "Routing Path": [
+    [
+      145,
+      119.13
+    ],
+    [
+      "GS2",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 45,
+  "Routing Path": [
+    [
+      72,
+      31.895
+    ],
+    [
+      124,
+      31.895
+    ],
+    [
+      171,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 134,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 88,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 50,
+  "Routing Path": [
+    [
+      178,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 71,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 204,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 52,
+  "Routing Path": [
+    [
+      163,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 215,
+  "Routing Path": [
+    [
+      32,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 176,
+  "Routing Path": [
+    [
+      58,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 181,
+  "Routing Path": [
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 69,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 193,
+  "Routing Path": [
+    [
+      "GS1",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 131,
+  "Routing Path": [
+    [
+      179,
+      52.857
+    ],
+    [
+      120,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 47,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 139,
+  "Routing Path": [
+    [
+      "GS1",
+      63.97
+    ]
+  ],
+  "End-to-end data rate": 63.97
+}
+{
+  "Source Node": 152,
+  "Routing Path": [
+    [
+      151,
+      31.895
+    ],
+    [
+      166,
+      31.895
+    ],
+    [
+      209,
+      31.895
+    ],
+    [
+      105,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 112,
+  "Routing Path": [
+    [
+      95,
+      52.857
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 133,
+  "Routing Path": [
+    [
+      211,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 28,
+  "Routing Path": [
+    [
+      169,
+      31.895
+    ],
+    [
+      89,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 3,
+  "Routing Path": [
+    [
+      170,
+      31.895
+    ],
+    [
+      167,
+      31.895
+    ],
+    [
+      "GS1",
+      43.505
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 77,
+  "Routing Path": [
+    [
+      84,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 160,
+  "Routing Path": [
+    [
+      43,
+      31.895
+    ],
+    [
+      140,
+      31.895
+    ],
+    [
+      132,
+      43.505
+    ],
+    [
+      158,
+      31.895
+    ],
+    [
+      19,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 175,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 149,
+  "Routing Path": [
+    [
+      100,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 142,
+  "Routing Path": [
+    [
+      101,
+      63.97
+    ],
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 147,
+  "Routing Path": [
+    [
+      2,
+      77.071
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 97,
+  "Routing Path": [
+    [
+      "GS1",
+      63.97
+    ]
+  ],
+  "End-to-end data rate": 63.97
+}
+{
+  "Source Node": 6,
+  "Routing Path": [
+    [
+      161,
+      31.895
+    ],
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 87,
+  "Routing Path": [
+    [
+      206,
+      43.505
+    ],
+    [
+      129,
+      31.895
+    ],
+    [
+      41,
+      31.895
+    ],
+    [
+      91,
+      63.97
+    ],
+    [
+      144,
+      31.895
+    ],
+    [
+      96,
+      43.505
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 27,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 194,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 157,
+  "Routing Path": [
+    [
+      73,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 4,
+  "Routing Path": [
+    [
+      138,
+      31.895
+    ],
+    [
+      23,
+      31.895
+    ],
+    [
+      92,
+      31.895
+    ],
+    [
+      148,
+      31.895
+    ],
+    [
+      40,
+      31.895
+    ],
+    [
+      11,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 189,
+  "Routing Path": [
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 38,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 49,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 51,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 59,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 65,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 63,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 202,
+  "Routing Path": [
+    [
+      54,
+      43.505
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 0,
+  "Routing Path": [
+    [
+      81,
+      77.071
+    ],
+    [
+      146,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 30,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 126,
+  "Routing Path": [
+    [
+      203,
+      31.895
+    ],
+    [
+      165,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 174,
+  "Routing Path": [
+    [
+      188,
+      31.895
+    ],
+    [
+      195,
+      31.895
+    ],
+    [
+      155,
+      43.505
+    ],
+    [
+      185,
+      43.505
+    ],
+    [
+      60,
+      31.895
+    ],
+    [
+      74,
+      43.505
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 104,
+  "Routing Path": [
+    [
+      205,
+      31.895
+    ],
+    [
+      212,
+      31.895
+    ],
+    [
+      125,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 1,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 135,
+  "Routing Path": [
+    [
+      57,
+      77.071
+    ],
+    [
+      78,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 94,
+  "Routing Path": [
+    [
+      25,
+      31.895
+    ],
+    [
+      130,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 143,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 9,
+  "Routing Path": [
+    [
+      119,
+      31.895
+    ],
+    [
+      62,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 113,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 42,
+  "Routing Path": [
+    [
+      56,
+      31.895
+    ],
+    [
+      14,
+      31.895
+    ],
+    [
+      156,
+      31.895
+    ],
+    [
+      80,
+      52.857
+    ],
+    [
+      "GS2",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 37,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 46,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 7,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 118,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 210,
+  "Routing Path": [
+    [
+      13,
+      77.071
+    ],
+    [
+      45,
+      93.854
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 5,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 111,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 180,
+  "Routing Path": [
+    [
+      20,
+      43.505
+    ],
+    [
+      114,
+      31.895
+    ],
+    [
+      90,
+      31.895
+    ],
+    [
+      21,
+      31.895
+    ],
+    [
+      8,
+      31.895
+    ],
+    [
+      186,
+      31.895
+    ],
+    [
+      106,
+      31.895
+    ],
+    [
+      196,
+      31.895
+    ],
+    [
+      17,
+      31.895
+    ],
+    [
+      83,
+      31.895
+    ],
+    [
+      141,
+      31.895
+    ],
+    [
+      145,
+      31.895
+    ],
+    [
+      44,
+      63.97
+    ],
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 124,
+  "Routing Path": [
+    [
+      150,
+      31.895
+    ],
+    [
+      137,
+      31.895
+    ],
+    [
+      117,
+      77.071
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 86,
+  "Routing Path": [
+    [
+      102,
+      31.895
+    ],
+    [
+      85,
+      93.854
+    ],
+    [
+      88,
+      31.895
+    ],
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 115,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 134,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 116,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 29,
+  "Routing Path": [
+    [
+      53,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 69,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 148,
+  "Routing Path": [
+    [
+      129,
+      31.895
+    ],
+    [
+      132,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 201,
+  "Routing Path": [
+    [
+      195,
+      31.895
+    ],
+    [
+      142,
+      31.895
+    ],
+    [
+      "GS1",
+      43.505
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 81,
+  "Routing Path": [
+    [
+      52,
+      52.857
+    ],
+    [
+      157,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 120,
+  "Routing Path": [
+    [
+      139,
+      31.895
+    ],
+    [
+      "GS1",
+      63.97
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 47,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 138,
+  "Routing Path": [
+    [
+      59,
+      31.895
+    ],
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 107,
+  "Routing Path": [
+    [
+      79,
+      31.895
+    ],
+    [
+      99,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 27,
+  "Routing Path": [
+    [
+      49,
+      31.895
+    ],
+    [
+      207,
+      63.97
+    ],
+    [
+      75,
+      31.895
+    ],
+    [
+      "GS1",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 34,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 74,
+  "Routing Path": [
+    [
+      84,
+      43.505
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 71,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 105,
+  "Routing Path": [
+    [
+      35,
+      31.895
+    ],
+    [
+      191,
+      52.857
+    ],
+    [
+      177,
+      31.895
+    ],
+    [
+      206,
+      31.895
+    ],
+    [
+      214,
+      31.895
+    ],
+    [
+      19,
+      31.895
+    ],
+    [
+      32,
+      31.895
+    ],
+    [
+      163,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 43,
+  "Routing Path": [
+    [
+      212,
+      31.895
+    ],
+    [
+      211,
+      31.895
+    ],
+    [
+      58,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 67,
+  "Routing Path": [
+    [
+      0,
+      31.895
+    ],
+    [
+      101,
+      31.895
+    ],
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 89,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 68,
+  "Routing Path": [
+    [
+      61,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 193,
+  "Routing Path": [
+    [
+      "GS1",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 112,
+  "Routing Path": [
+    [
+      92,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 160,
+  "Routing Path": [
+    [
+      48,
+      31.895
+    ],
+    [
+      215,
+      31.895
+    ],
+    [
+      167,
+      31.895
+    ],
+    [
+      96,
+      43.505
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 165,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 23,
+  "Routing Path": [
+    [
+      131,
+      31.895
+    ],
+    [
+      122,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 161,
+  "Routing Path": [
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 76,
+  "Routing Path": [
+    [
+      203,
+      31.895
+    ],
+    [
+      175,
+      31.895
+    ],
+    [
+      187,
+      31.895
+    ],
+    [
+      36,
+      52.857
+    ],
+    [
+      205,
+      43.505
+    ],
+    [
+      77,
+      31.895
+    ],
+    [
+      100,
+      31.895
+    ],
+    [
+      178,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 104,
+  "Routing Path": [
+    [
+      159,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 51,
+  "Routing Path": [
+    [
+      31,
+      31.895
+    ],
+    [
+      197,
+      31.895
+    ],
+    [
+      173,
+      52.857
+    ],
+    [
+      109,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 65,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 63,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 204,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 60,
+  "Routing Path": [
+    [
+      54,
+      77.071
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 91,
+  "Routing Path": [
+    [
+      6,
+      31.895
+    ],
+    [
+      39,
+      31.895
+    ],
+    [
+      1,
+      31.895
+    ],
+    [
+      147,
+      31.895
+    ],
+    [
+      146,
+      31.895
+    ],
+    [
+      73,
+      63.97
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 153,
+  "Routing Path": [
+    [
+      78,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 125,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 202,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 182,
+  "Routing Path": [
+    [
+      57,
+      31.895
+    ],
+    [
+      176,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 189,
+  "Routing Path": [
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 155,
+  "Routing Path": [
+    [
+      185,
+      43.505
+    ],
+    [
+      164,
+      31.895
+    ],
+    [
+      179,
+      31.895
+    ],
+    [
+      2,
+      31.895
+    ],
+    [
+      93,
+      31.895
+    ],
+    [
+      172,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 97,
+  "Routing Path": [
+    [
+      "GS1",
+      63.97
+    ]
+  ],
+  "End-to-end data rate": 63.97
+}
+{
+  "Source Node": 111,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 113,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 53,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 7,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 134,
+  "Routing Path": [
+    [
+      121,
+      31.895
+    ],
+    [
+      10,
+      52.857
+    ],
+    [
+      103,
+      63.97
+    ],
+    [
+      22,
+      31.895
+    ],
+    [
+      208,
+      31.895
+    ],
+    [
+      128,
+      31.895
+    ],
+    [
+      29,
+      43.505
+    ],
+    [
+      199,
+      63.97
+    ],
+    [
+      186,
+      77.071
+    ],
+    [
+      102,
+      31.895
+    ],
+    [
+      171,
+      31.895
+    ],
+    [
+      118,
+      31.895
+    ],
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 119,
+  "Routing Path": [
+    [
+      13,
+      63.97
+    ],
+    [
+      8,
+      31.895
+    ],
+    [
+      72,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 150,
+  "Routing Path": [
+    [
+      82,
+      31.895
+    ],
+    [
+      117,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 44,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 64,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 145,
+  "Routing Path": [
+    [
+      "GS2",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 83,
+  "Routing Path": [
+    [
+      114,
+      31.895
+    ],
+    [
+      9,
+      31.895
+    ],
+    [
+      124,
+      31.895
+    ],
+    [
+      5,
+      31.895
+    ],
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 45,
+  "Routing Path": [
+    [
+      18,
+      31.895
+    ],
+    [
+      210,
+      43.505
+    ],
+    [
+      98,
+      31.895
+    ],
+    [
+      106,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 198,
+  "Routing Path": [
+    [
+      108,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 116,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 115,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 143,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 141,
+  "Routing Path": [
+    [
+      86,
+      31.895
+    ],
+    [
+      25,
+      31.895
+    ],
+    [
+      46,
+      31.895
+    ],
+    [
+      156,
+      52.857
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 136,
+  "Routing Path": [
+    [
+      93,
+      52.857
+    ],
+    [
+      159,
+      31.895
+    ],
+    [
+      74,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 203,
+  "Routing Path": [
+    [
+      52,
+      31.895
+    ],
+    [
+      32,
+      31.895
+    ],
+    [
+      19,
+      31.895
+    ],
+    [
+      92,
+      31.895
+    ],
+    [
+      48,
+      93.854
+    ],
+    [
+      133,
+      63.97
+    ],
+    [
+      164,
+      31.895
+    ],
+    [
+      200,
+      31.895
+    ],
+    [
+      28,
+      31.895
+    ],
+    [
+      153,
+      31.895
+    ],
+    [
+      154,
+      119.13
+    ],
+    [
+      185,
+      31.895
+    ],
+    [
+      189,
+      31.895
+    ],
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 115,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 171,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 201,
+  "Routing Path": [
+    [
+      96,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 7,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 214,
+  "Routing Path": [
+    [
+      43,
+      31.895
+    ],
+    [
+      163,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 80,
+  "Routing Path": [
+    [
+      "GS2",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 44,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 152,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 77,
+  "Routing Path": [
+    [
+      167,
+      31.895
+    ],
+    [
+      "GS1",
+      43.505
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 109,
+  "Routing Path": [
+    [
+      24,
+      43.505
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 211,
+  "Routing Path": [
+    [
+      129,
+      31.895
+    ],
+    [
+      31,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 69,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 145,
+  "Routing Path": [
+    [
+      "GS2",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 52.857
+}
+{
+  "Source Node": 63,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 204,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 58,
+  "Routing Path": [
+    [
+      176,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 197,
+  "Routing Path": [
+    [
+      4,
+      31.895
+    ],
+    [
+      40,
+      31.895
+    ],
+    [
+      193,
+      31.895
+    ],
+    [
+      "GS1",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 158,
+  "Routing Path": [
+    [
+      144,
+      31.895
+    ],
+    [
+      78,
+      77.071
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 10,
+  "Routing Path": [
+    [
+      150,
+      31.895
+    ],
+    [
+      37,
+      31.895
+    ],
+    [
+      196,
+      31.895
+    ],
+    [
+      98,
+      31.895
+    ],
+    [
+      42,
+      31.895
+    ],
+    [
+      56,
+      31.895
+    ],
+    [
+      86,
+      31.895
+    ],
+    [
+      94,
+      63.97
+    ],
+    [
+      156,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 146,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 114,
+  "Routing Path": [
+    [
+      106,
+      31.895
+    ],
+    [
+      45,
+      31.895
+    ],
+    [
+      210,
+      77.071
+    ],
+    [
+      9,
+      31.895
+    ],
+    [
+      8,
+      43.505
+    ],
+    [
+      14,
+      31.895
+    ],
+    [
+      124,
+      31.895
+    ],
+    [
+      90,
+      31.895
+    ],
+    [
+      119,
+      31.895
+    ],
+    [
+      143,
+      31.895
+    ],
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 162,
+  "Routing Path": [
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 39,
+  "Routing Path": [
+    [
+      187,
+      31.895
+    ],
+    [
+      174,
+      31.895
+    ],
+    [
+      87,
+      31.895
+    ],
+    [
+      151,
+      52.857
+    ],
+    [
+      131,
+      31.895
+    ],
+    [
+      213,
+      31.895
+    ],
+    [
+      30,
+      43.505
+    ],
+    [
+      2,
+      63.97
+    ],
+    [
+      84,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 168,
+  "Routing Path": [
+    [
+      21,
+      31.895
+    ],
+    [
+      186,
+      31.895
+    ],
+    [
+      22,
+      43.505
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 165,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 12,
+  "Routing Path": [
+    [
+      140,
+      31.895
+    ],
+    [
+      206,
+      31.895
+    ],
+    [
+      209,
+      93.854
+    ],
+    [
+      6,
+      63.97
+    ],
+    [
+      51,
+      31.895
+    ],
+    [
+      55,
+      63.97
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 111,
+  "Routing Path": [
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 85,
+  "Routing Path": [
+    [
+      82,
+      31.895
+    ],
+    [
+      "GS2",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 35,
+  "Routing Path": [
+    [
+      100,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 195,
+  "Routing Path": [
+    [
+      190,
+      31.895
+    ],
+    [
+      194,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 71,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 132,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 75,
+  "Routing Path": [
+    [
+      "GS1",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 77.071
+}
+{
+  "Source Node": 15,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 157,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 122,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 59,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 166,
+  "Routing Path": [
+    [
+      101,
+      31.895
+    ],
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 118,
+  "Routing Path": [
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 93.854
+}
+{
+  "Source Node": 212,
+  "Routing Path": [
+    [
+      107,
+      31.895
+    ],
+    [
+      139,
+      31.895
+    ],
+    [
+      "GS1",
+      63.97
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 47,
+  "Routing Path": [
+    [
+      "GS1",
+      119.13
+    ]
+  ],
+  "End-to-end data rate": 119.13
+}
+{
+  "Source Node": 191,
+  "Routing Path": [
+    [
+      181,
+      31.895
+    ],
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 207,
+  "Routing Path": [
+    [
+      49,
+      63.97
+    ],
+    [
+      54,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 102,
+  "Routing Path": [
+    [
+      46,
+      31.895
+    ],
+    [
+      88,
+      31.895
+    ],
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 179,
+  "Routing Path": [
+    [
+      138,
+      31.895
+    ],
+    [
+      73,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 68,
+  "Routing Path": [
+    [
+      182,
+      31.895
+    ],
+    [
+      79,
+      31.895
+    ],
+    [
+      81,
+      52.857
+    ],
+    [
+      104,
+      31.895
+    ],
+    [
+      205,
+      31.895
+    ],
+    [
+      3,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 160,
+  "Routing Path": [
+    [
+      95,
+      31.895
+    ],
+    [
+      149,
+      31.895
+    ],
+    [
+      178,
+      31.895
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 99,
+  "Routing Path": [
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 67,
+  "Routing Path": [
+    [
+      161,
+      31.895
+    ],
+    [
+      "GS1",
+      52.857
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 120,
+  "Routing Path": [
+    [
+      188,
+      31.895
+    ],
+    [
+      41,
+      31.895
+    ],
+    [
+      89,
+      77.071
+    ],
+    [
+      "GS1",
+      31.895
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 20,
+  "Routing Path": [
+    [
+      117,
+      31.895
+    ],
+    [
+      141,
+      31.895
+    ],
+    [
+      25,
+      77.071
+    ],
+    [
+      5,
+      31.895
+    ],
+    [
+      "GS2",
+      77.071
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
+{
+  "Source Node": 192,
+  "Routing Path": [
+    [
+      17,
+      31.895
+    ],
+    [
+      108,
+      31.895
+    ],
+    [
+      62,
+      52.857
+    ],
+    [
+      29,
+      31.895
+    ],
+    [
+      53,
+      31.895
+    ],
+    [
+      113,
+      31.895
+    ],
+    [
+      "GS2",
+      93.854
+    ]
+  ],
+  "End-to-end data rate": 31.895
+}
